@@ -16,6 +16,11 @@
       "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#cheat",
       "version": ""
     },
+    "direnv": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#direnv",
+      "version": ""
+    },
     "exa": {
       "last_modified": "",
       "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#exa",

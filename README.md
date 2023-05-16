@@ -24,5 +24,6 @@ See directions [here][def]
 
 ## Notes
 
-Tested with zsh, but not bash yet.  I'll get to that soon.
-Shell script hackery needs to be cleaned up. Would be nice to have a env var/substitution for the devbox global path in the shell scripts.
+- First shell launch will be slow, as it will install all the packages.  Subsequent shells will be faster.
+- Tested with zsh, but not bash yet.  I'll get to that soon.
+- Shell script hackery needs to be cleaned up. Would be nice to have a env var/substitution for the devbox global path in the shell scripts.
