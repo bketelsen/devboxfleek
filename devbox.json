@@ -1,0 +1,30 @@
+{
+  "packages": [
+    "neovim",
+    "direnv",
+    "starship",
+    "atuin",
+    "ripgrep",
+    "fzf",
+    "jq",
+    "yq",
+    "htop",
+    "github-cli",
+    "glab",
+    "fd",
+    "bat",
+    "exa",
+    "tree",
+    "tldr",
+    "zoxide",
+    "cheat"
+  ],
+  "shell": {
+    "init_hook": [
+      ". ~/.local/share/devbox/global/default/init.sh"
+    ]
+  },
+  "nixpkgs": {
+    "commit": "0470f36b02ef01d4f43c641bbf07020bcab71bf1"
+  }
+}

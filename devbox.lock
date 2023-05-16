@@ -1,0 +1,90 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "atuin": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#atuin",
+      "version": ""
+    },
+    "bat": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#bat",
+      "version": ""
+    },
+    "cheat": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#cheat",
+      "version": ""
+    },
+    "exa": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#exa",
+      "version": ""
+    },
+    "fd": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#fd",
+      "version": ""
+    },
+    "fzf": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#fzf",
+      "version": ""
+    },
+    "github-cli": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#github-cli",
+      "version": ""
+    },
+    "glab": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#glab",
+      "version": ""
+    },
+    "htop": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#htop",
+      "version": ""
+    },
+    "jq": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#jq",
+      "version": ""
+    },
+    "neovim": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#neovim",
+      "version": ""
+    },
+    "ripgrep": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#ripgrep",
+      "version": ""
+    },
+    "starship": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#starship",
+      "version": ""
+    },
+    "tldr": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#tldr",
+      "version": ""
+    },
+    "tree": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#tree",
+      "version": ""
+    },
+    "yq": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#yq",
+      "version": ""
+    },
+    "zoxide": {
+      "last_modified": "",
+      "resolved": "github:NixOS/nixpkgs/0470f36b02ef01d4f43c641bbf07020bcab71bf1#zoxide",
+      "version": ""
+    }
+  }
+}
