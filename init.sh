@@ -21,3 +21,5 @@ case $shell in
            echo "Unsupported shell: '$shell'"
            ;;
 esac
+
+export STARSHIP_CONFIG="${SCRIPT_PATH}/nonerdfont.toml"
