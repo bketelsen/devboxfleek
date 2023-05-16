@@ -21,3 +21,8 @@ git clone https://github.com/bketelsen/devboxfleek.git ~/.local/share/devbox/glo
 See directions [here][def]
 
 [def]: https://www.jetpack.io/devbox/docs/devbox_global/#add-global-packages-to-your-current-host-shell
+
+## Notes
+
+Tested with zsh, but not bash yet.  I'll get to that soon.
+Shell script hackery needs to be cleaned up. Would be nice to have a env var/substitution for the devbox global path in the shell scripts.
