@@ -20,6 +20,10 @@ git clone https://github.com/bketelsen/devboxfleek.git ~/.local/share/devbox/glo
 
 See directions [here][def]
 
+**Be sure to add the `--init-hook` flag!**
+
+```bash
+
 [def]: https://www.jetpack.io/devbox/docs/devbox_global/#add-global-packages-to-your-current-host-shell
 
 ## Notes
