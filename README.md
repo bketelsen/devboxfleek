@@ -18,13 +18,9 @@ git clone https://github.com/bketelsen/devboxfleek.git ~/.local/share/devbox/glo
 
 ### Source the Devbox global configuration
 
-See directions [here][def]
+See directions [here](https://www.jetpack.io/devbox/docs/devbox_global/#add-global-packages-to-your-current-host-shell)
 
 **Be sure to add the `--init-hook` flag!**
-
-```bash
-
-[def]: https://www.jetpack.io/devbox/docs/devbox_global/#add-global-packages-to-your-current-host-shell
 
 ## Notes
 
