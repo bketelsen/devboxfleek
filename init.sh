@@ -1,6 +1,7 @@
 shell=$(basename $SHELL)
 SCRIPT_PATH=`dirname "$0"`; SCRIPT_PATH=`eval "cd \"$SCRIPT_PATH\" && pwd"`
 
+export STARSHIP_CONFIG="${SCRIPT_PATH}/nonerdfont.toml"
 case $shell in
      "zsh" )
            if [[ $TERM != "dumb" && (-z $INSIDE_EMACS || $INSIDE_EMACS == "vterm") ]]; then
@@ -22,4 +23,3 @@ case $shell in
            ;;
 esac
 
-export STARSHIP_CONFIG="${SCRIPT_PATH}/nonerdfont.toml"
